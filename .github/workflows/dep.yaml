@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Dependencies Outdater
-        uses: action-runner/dependencies-outdater@master
+        uses: action-runner/dependencies-outdater@fix
         with:
           access_token: ${{ secrets.RELEASE_TOKEN }}
