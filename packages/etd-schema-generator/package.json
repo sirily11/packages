@@ -13,13 +13,13 @@
     "url": "https://github.com/etherdata-blockchain/packages.git"
   },
   "devDependencies": {
-    "@etherdata-blockchain/logger": "^3.0.0",
-    "jest": "^27.5.1",
-    "ts-jest": "^27.1.4",
+    "@etherdata-blockchain/logger": "^4.3.1",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.2",
     "ts-json-schema-generator": "^1.0.0",
     "ts-node": "^10.7.0",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.6.3"
+    "typescript": "^4.6.4"
   },
   "scripts": {
     "test": "jest",
